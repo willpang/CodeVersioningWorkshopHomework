@@ -1,0 +1,9 @@
+Based on the workshop:
+
+Branch is label for a line of development.
+We can use branch if we want to experiment some changes from our original file.
+
+To create a branch, we can use `git branch`.
+We need to name our branch with the topic name of our changes.
+
+To change between our branch, we can use `git checkout`.
