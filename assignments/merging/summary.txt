@@ -1,0 +1,7 @@
+Based on the workshop:
+
+Merge is used to combine changes from one branch into another.
+
+To merge two branches, we can use `git merge`.
+Merge will combine the changes from both branches.
+If there are conflicted changes within the same files, it can cause merge conflict.
